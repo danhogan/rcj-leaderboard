@@ -1,6 +1,9 @@
 const fetch = require("node-fetch");
 const fs = require('fs');
 
+const fileName = '../src/allTheData.json';
+const file = require(fileName);
+
 const {leagueIds, getDivision} = require('./divisions');
 
 //Get all league data
@@ -10,11 +13,9 @@ const promises = leagueIds.map((leagueId) => {
 });
 
 Promise.all(promises).then((data) => {
-
     //Format league data that we will need
     const allStats = data.map((league) => {
         return league.divisions[0].teams.map((team) => {
-            // console.log(team.roto.statValues)
             return {
                 teamName: team.name,
                 teamId: team.id,
@@ -32,6 +33,17 @@ Promise.all(promises).then((data) => {
                     TO: team.roto.statValues[7].value.value || 0,
                     Stl: team.roto.statValues[1].value.value || 0,
                     Blk: team.roto.statValues[8].value.value || 0,
+                },
+                statsHistory: {
+                    Pts: [...file.theData.filter(x => x.teamId == team.id)[0].statsHistory.Pts, team.roto.statValues[2].value.value || 0],
+                    FG: [...file.theData.filter(x => x.teamId == team.id)[0].statsHistory.FG, team.roto.statValues[6].value.value || 0],
+                    FT: [...file.theData.filter(x => x.teamId == team.id)[0].statsHistory.FT, team.roto.statValues[4].value.value || 0],
+                    PM3: [...file.theData.filter(x => x.teamId == team.id)[0].statsHistory.PM3, team.roto.statValues[0].value.value || 0],
+                    Reb: [...file.theData.filter(x => x.teamId == team.id)[0].statsHistory.Reb, team.roto.statValues[5].value.value || 0],
+                    Ast: [...file.theData.filter(x => x.teamId == team.id)[0].statsHistory.Ast, team.roto.statValues[3].value.value || 0],
+                    TO: [...file.theData.filter(x => x.teamId == team.id)[0].statsHistory.TO, team.roto.statValues[7].value.value || 0],
+                    Stl: [...file.theData.filter(x => x.teamId == team.id)[0].statsHistory.Stl, team.roto.statValues[1].value.value || 0],
+                    Blk: [...file.theData.filter(x => x.teamId == team.id)[0].statsHistory.Blk, team.roto.statValues[8].value.value || 0],
                 }
             }
         });
@@ -297,9 +309,5 @@ Promise.all(promises).then((data) => {
         updateDate: Date.now()
     }
 
-    
-    const today = new Date().toISOString().slice(0, 10);
-
     fs.writeFileSync(`../src/allTheData.json`, JSON.stringify(withDate));
-    fs.writeFileSync(`../src/history/allTheData-${today}.json`, JSON.stringify(withDate));
 });

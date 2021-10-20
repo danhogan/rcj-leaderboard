@@ -40,6 +40,35 @@
                 "Stl": 2,
                 "Blk": 3
             },
+            "statsHistory": {
+                "Pts": [
+                    53
+                ],
+                "FG": [
+                    52.77778
+                ],
+                "FT": [
+                    77.77778
+                ],
+                "PM3": [
+                    8
+                ],
+                "Reb": [
+                    16
+                ],
+                "Ast": [
+                    9
+                ],
+                "TO": [
+                    4
+                ],
+                "Stl": [
+                    2
+                ],
+                "Blk": [
+                    3
+                ]
+            },
             "totalPoints": 449,
             "divisionPoints": 167.5,
             "overallRank": 1,
@@ -85,6 +114,35 @@
                 "TO": 1,
                 "Stl": 2,
                 "Blk": 2
+            },
+            "statsHistory": {
+                "Pts": [
+                    42
+                ],
+                "FG": [
+                    45.714287
+                ],
+                "FT": [
+                    57.142857
+                ],
+                "PM3": [
+                    6
+                ],
+                "Reb": [
+                    15
+                ],
+                "Ast": [
+                    10
+                ],
+                "TO": [
+                    1
+                ],
+                "Stl": [
+                    2
+                ],
+                "Blk": [
+                    2
+                ]
             },
             "totalPoints": 430,
             "divisionPoints": 161.5,
@@ -132,6 +190,35 @@
                 "Stl": 2,
                 "Blk": 3
             },
+            "statsHistory": {
+                "Pts": [
+                    86
+                ],
+                "FG": [
+                    51.515152
+                ],
+                "FT": [
+                    46.153847
+                ],
+                "PM3": [
+                    12
+                ],
+                "Reb": [
+                    24
+                ],
+                "Ast": [
+                    12
+                ],
+                "TO": [
+                    7
+                ],
+                "Stl": [
+                    2
+                ],
+                "Blk": [
+                    3
+                ]
+            },
             "totalPoints": 429,
             "divisionPoints": 171,
             "overallRank": 3,
@@ -177,6 +264,35 @@
                 "TO": 12,
                 "Stl": 2,
                 "Blk": 3
+            },
+            "statsHistory": {
+                "Pts": [
+                    74
+                ],
+                "FG": [
+                    47.540985
+                ],
+                "FT": [
+                    66.666664
+                ],
+                "PM3": [
+                    6
+                ],
+                "Reb": [
+                    30
+                ],
+                "Ast": [
+                    16
+                ],
+                "TO": [
+                    12
+                ],
+                "Stl": [
+                    2
+                ],
+                "Blk": [
+                    3
+                ]
             },
             "totalPoints": 426,
             "divisionPoints": 166,
@@ -224,6 +340,35 @@
                 "Stl": 1,
                 "Blk": 2
             },
+            "statsHistory": {
+                "Pts": [
+                    56
+                ],
+                "FG": [
+                    58.536587
+                ],
+                "FT": [
+                    33.333332
+                ],
+                "PM3": [
+                    5
+                ],
+                "Reb": [
+                    19
+                ],
+                "Ast": [
+                    5
+                ],
+                "TO": [
+                    1
+                ],
+                "Stl": [
+                    1
+                ],
+                "Blk": [
+                    2
+                ]
+            },
             "totalPoints": 414,
             "divisionPoints": 156,
             "overallRank": 5,
@@ -269,6 +414,35 @@
                 "TO": 6,
                 "Stl": 2,
                 "Blk": 3
+            },
+            "statsHistory": {
+                "Pts": [
+                    40
+                ],
+                "FG": [
+                    41.17647
+                ],
+                "FT": [
+                    80
+                ],
+                "PM3": [
+                    8
+                ],
+                "Reb": [
+                    11
+                ],
+                "Ast": [
+                    11
+                ],
+                "TO": [
+                    6
+                ],
+                "Stl": [
+                    2
+                ],
+                "Blk": [
+                    3
+                ]
             },
             "totalPoints": 412,
             "divisionPoints": 80,
@@ -316,6 +490,35 @@
                 "Stl": 2,
                 "Blk": 2
             },
+            "statsHistory": {
+                "Pts": [
+                    45
+                ],
+                "FG": [
+                    60.60606
+                ],
+                "FT": [
+                    28.571428
+                ],
+                "PM3": [
+                    3
+                ],
+                "Reb": [
+                    12
+                ],
+                "Ast": [
+                    3
+                ],
+                "TO": [
+                    0
+                ],
+                "Stl": [
+                    2
+                ],
+                "Blk": [
+                    2
+                ]
+            },
             "totalPoints": 410,
             "divisionPoints": 155.5,
             "overallRank": 7,
@@ -361,6 +564,35 @@
                 "TO": 0,
                 "Stl": 2,
                 "Blk": 5
+            },
+            "statsHistory": {
+                "Pts": [
+                    41
+                ],
+                "FG": [
+                    51.42857
+                ],
+                "FT": [
+                    28.571428
+                ],
+                "PM3": [
+                    3
+                ],
+                "Reb": [
+                    16
+                ],
+                "Ast": [
+                    2
+                ],
+                "TO": [
+                    0
+                ],
+                "Stl": [
+                    2
+                ],
+                "Blk": [
+                    5
+                ]
             },
             "totalPoints": 410,
             "divisionPoints": 154,
@@ -408,6 +640,35 @@
                 "Stl": 2,
                 "Blk": 3
             },
+            "statsHistory": {
+                "Pts": [
+                    44
+                ],
+                "FG": [
+                    48.57143
+                ],
+                "FT": [
+                    77.77778
+                ],
+                "PM3": [
+                    3
+                ],
+                "Reb": [
+                    22
+                ],
+                "Ast": [
+                    8
+                ],
+                "TO": [
+                    6
+                ],
+                "Stl": [
+                    2
+                ],
+                "Blk": [
+                    3
+                ]
+            },
             "totalPoints": 409,
             "divisionPoints": 160,
             "overallRank": 9,
@@ -453,6 +714,35 @@
                 "TO": 1,
                 "Stl": 2,
                 "Blk": 2
+            },
+            "statsHistory": {
+                "Pts": [
+                    53
+                ],
+                "FG": [
+                    53.488373
+                ],
+                "FT": [
+                    45.454544
+                ],
+                "PM3": [
+                    2
+                ],
+                "Reb": [
+                    20
+                ],
+                "Ast": [
+                    5
+                ],
+                "TO": [
+                    1
+                ],
+                "Stl": [
+                    2
+                ],
+                "Blk": [
+                    2
+                ]
             },
             "totalPoints": 408,
             "divisionPoints": 155.5,
@@ -500,6 +790,35 @@
                 "Stl": 4,
                 "Blk": 3
             },
+            "statsHistory": {
+                "Pts": [
+                    29
+                ],
+                "FG": [
+                    26.666666
+                ],
+                "FT": [
+                    100
+                ],
+                "PM3": [
+                    4
+                ],
+                "Reb": [
+                    15
+                ],
+                "Ast": [
+                    10
+                ],
+                "TO": [
+                    4
+                ],
+                "Stl": [
+                    4
+                ],
+                "Blk": [
+                    3
+                ]
+            },
             "totalPoints": 401,
             "divisionPoints": 160.5,
             "overallRank": 11,
@@ -545,6 +864,35 @@
                 "TO": 6,
                 "Stl": 2,
                 "Blk": 2
+            },
+            "statsHistory": {
+                "Pts": [
+                    40
+                ],
+                "FG": [
+                    41.17647
+                ],
+                "FT": [
+                    80
+                ],
+                "PM3": [
+                    8
+                ],
+                "Reb": [
+                    10
+                ],
+                "Ast": [
+                    11
+                ],
+                "TO": [
+                    6
+                ],
+                "Stl": [
+                    2
+                ],
+                "Blk": [
+                    2
+                ]
             },
             "totalPoints": 394,
             "divisionPoints": 153.5,
@@ -592,6 +940,35 @@
                 "Stl": 2,
                 "Blk": 2
             },
+            "statsHistory": {
+                "Pts": [
+                    40
+                ],
+                "FG": [
+                    41.17647
+                ],
+                "FT": [
+                    80
+                ],
+                "PM3": [
+                    8
+                ],
+                "Reb": [
+                    10
+                ],
+                "Ast": [
+                    11
+                ],
+                "TO": [
+                    6
+                ],
+                "Stl": [
+                    2
+                ],
+                "Blk": [
+                    2
+                ]
+            },
             "totalPoints": 394,
             "divisionPoints": 150.5,
             "overallRank": 12,
@@ -637,6 +1014,35 @@
                 "TO": 6,
                 "Stl": 4,
                 "Blk": 0
+            },
+            "statsHistory": {
+                "Pts": [
+                    33
+                ],
+                "FG": [
+                    32.258064
+                ],
+                "FT": [
+                    100
+                ],
+                "PM3": [
+                    4
+                ],
+                "Reb": [
+                    17
+                ],
+                "Ast": [
+                    11
+                ],
+                "TO": [
+                    6
+                ],
+                "Stl": [
+                    4
+                ],
+                "Blk": [
+                    0
+                ]
             },
             "totalPoints": 377,
             "divisionPoints": 138,
@@ -684,6 +1090,35 @@
                 "Stl": 1,
                 "Blk": 1
             },
+            "statsHistory": {
+                "Pts": [
+                    34
+                ],
+                "FG": [
+                    56.52174
+                ],
+                "FT": [
+                    50
+                ],
+                "PM3": [
+                    5
+                ],
+                "Reb": [
+                    11
+                ],
+                "Ast": [
+                    5
+                ],
+                "TO": [
+                    4
+                ],
+                "Stl": [
+                    1
+                ],
+                "Blk": [
+                    1
+                ]
+            },
             "totalPoints": 366,
             "divisionPoints": 139,
             "overallRank": 15,
@@ -729,6 +1164,35 @@
                 "TO": 4,
                 "Stl": 1,
                 "Blk": 1
+            },
+            "statsHistory": {
+                "Pts": [
+                    34
+                ],
+                "FG": [
+                    56.52174
+                ],
+                "FT": [
+                    50
+                ],
+                "PM3": [
+                    5
+                ],
+                "Reb": [
+                    11
+                ],
+                "Ast": [
+                    5
+                ],
+                "TO": [
+                    4
+                ],
+                "Stl": [
+                    1
+                ],
+                "Blk": [
+                    1
+                ]
             },
             "totalPoints": 366,
             "divisionPoints": 131,
@@ -776,6 +1240,35 @@
                 "Stl": 1,
                 "Blk": 1
             },
+            "statsHistory": {
+                "Pts": [
+                    34
+                ],
+                "FG": [
+                    56.52174
+                ],
+                "FT": [
+                    50
+                ],
+                "PM3": [
+                    5
+                ],
+                "Reb": [
+                    11
+                ],
+                "Ast": [
+                    5
+                ],
+                "TO": [
+                    4
+                ],
+                "Stl": [
+                    1
+                ],
+                "Blk": [
+                    1
+                ]
+            },
             "totalPoints": 366,
             "divisionPoints": 72,
             "overallRank": 15,
@@ -821,6 +1314,35 @@
                 "TO": 0,
                 "Stl": 1,
                 "Blk": 2
+            },
+            "statsHistory": {
+                "Pts": [
+                    33
+                ],
+                "FG": [
+                    57.692307
+                ],
+                "FT": [
+                    28.571428
+                ],
+                "PM3": [
+                    1
+                ],
+                "Reb": [
+                    11
+                ],
+                "Ast": [
+                    2
+                ],
+                "TO": [
+                    0
+                ],
+                "Stl": [
+                    1
+                ],
+                "Blk": [
+                    2
+                ]
             },
             "totalPoints": 357,
             "divisionPoints": 126,
@@ -868,6 +1390,35 @@
                 "Stl": 1,
                 "Blk": 2
             },
+            "statsHistory": {
+                "Pts": [
+                    33
+                ],
+                "FG": [
+                    57.692307
+                ],
+                "FT": [
+                    28.571428
+                ],
+                "PM3": [
+                    1
+                ],
+                "Reb": [
+                    11
+                ],
+                "Ast": [
+                    2
+                ],
+                "TO": [
+                    0
+                ],
+                "Stl": [
+                    1
+                ],
+                "Blk": [
+                    2
+                ]
+            },
             "totalPoints": 357,
             "divisionPoints": 66.5,
             "overallRank": 18,
@@ -913,6 +1464,35 @@
                 "TO": 2,
                 "Stl": 2,
                 "Blk": 3
+            },
+            "statsHistory": {
+                "Pts": [
+                    29
+                ],
+                "FG": [
+                    44
+                ],
+                "FT": [
+                    0
+                ],
+                "PM3": [
+                    7
+                ],
+                "Reb": [
+                    8
+                ],
+                "Ast": [
+                    3
+                ],
+                "TO": [
+                    2
+                ],
+                "Stl": [
+                    2
+                ],
+                "Blk": [
+                    3
+                ]
             },
             "totalPoints": 352,
             "divisionPoints": 133.5,
@@ -960,6 +1540,35 @@
                 "Stl": 1,
                 "Blk": 2
             },
+            "statsHistory": {
+                "Pts": [
+                    32
+                ],
+                "FG": [
+                    48
+                ],
+                "FT": [
+                    77.77778
+                ],
+                "PM3": [
+                    1
+                ],
+                "Reb": [
+                    14
+                ],
+                "Ast": [
+                    7
+                ],
+                "TO": [
+                    4
+                ],
+                "Stl": [
+                    1
+                ],
+                "Blk": [
+                    2
+                ]
+            },
             "totalPoints": 350,
             "divisionPoints": 137.5,
             "overallRank": 21,
@@ -1005,6 +1614,35 @@
                 "TO": 5,
                 "Stl": 1,
                 "Blk": 3
+            },
+            "statsHistory": {
+                "Pts": [
+                    33
+                ],
+                "FG": [
+                    44.444443
+                ],
+                "FT": [
+                    61.53846
+                ],
+                "PM3": [
+                    1
+                ],
+                "Reb": [
+                    17
+                ],
+                "Ast": [
+                    8
+                ],
+                "TO": [
+                    5
+                ],
+                "Stl": [
+                    1
+                ],
+                "Blk": [
+                    3
+                ]
             },
             "totalPoints": 349,
             "divisionPoints": 71,
@@ -1052,6 +1690,35 @@
                 "Stl": 1,
                 "Blk": 2
             },
+            "statsHistory": {
+                "Pts": [
+                    20
+                ],
+                "FG": [
+                    37.5
+                ],
+                "FT": [
+                    100
+                ],
+                "PM3": [
+                    4
+                ],
+                "Reb": [
+                    8
+                ],
+                "Ast": [
+                    8
+                ],
+                "TO": [
+                    4
+                ],
+                "Stl": [
+                    1
+                ],
+                "Blk": [
+                    2
+                ]
+            },
             "totalPoints": 343,
             "divisionPoints": 130.5,
             "overallRank": 23,
@@ -1097,6 +1764,35 @@
                 "TO": 4,
                 "Stl": 1,
                 "Blk": 2
+            },
+            "statsHistory": {
+                "Pts": [
+                    20
+                ],
+                "FG": [
+                    37.5
+                ],
+                "FT": [
+                    100
+                ],
+                "PM3": [
+                    4
+                ],
+                "Reb": [
+                    8
+                ],
+                "Ast": [
+                    8
+                ],
+                "TO": [
+                    4
+                ],
+                "Stl": [
+                    1
+                ],
+                "Blk": [
+                    2
+                ]
             },
             "totalPoints": 343,
             "divisionPoints": 120,
@@ -1144,6 +1840,35 @@
                 "Stl": 0,
                 "Blk": 2
             },
+            "statsHistory": {
+                "Pts": [
+                    32
+                ],
+                "FG": [
+                    52
+                ],
+                "FT": [
+                    50
+                ],
+                "PM3": [
+                    3
+                ],
+                "Reb": [
+                    11
+                ],
+                "Ast": [
+                    4
+                ],
+                "TO": [
+                    1
+                ],
+                "Stl": [
+                    0
+                ],
+                "Blk": [
+                    2
+                ]
+            },
             "totalPoints": 341,
             "divisionPoints": 63.5,
             "overallRank": 25,
@@ -1189,6 +1914,35 @@
                 "TO": 3,
                 "Stl": 1,
                 "Blk": 0
+            },
+            "statsHistory": {
+                "Pts": [
+                    29
+                ],
+                "FG": [
+                    42.307693
+                ],
+                "FT": [
+                    75
+                ],
+                "PM3": [
+                    4
+                ],
+                "Reb": [
+                    11
+                ],
+                "Ast": [
+                    5
+                ],
+                "TO": [
+                    3
+                ],
+                "Stl": [
+                    1
+                ],
+                "Blk": [
+                    0
+                ]
             },
             "totalPoints": 339,
             "divisionPoints": 125.5,
@@ -1236,6 +1990,35 @@
                 "Stl": 1,
                 "Blk": 0
             },
+            "statsHistory": {
+                "Pts": [
+                    29
+                ],
+                "FG": [
+                    42.307693
+                ],
+                "FT": [
+                    75
+                ],
+                "PM3": [
+                    4
+                ],
+                "Reb": [
+                    11
+                ],
+                "Ast": [
+                    5
+                ],
+                "TO": [
+                    3
+                ],
+                "Stl": [
+                    1
+                ],
+                "Blk": [
+                    0
+                ]
+            },
             "totalPoints": 339,
             "divisionPoints": 63.5,
             "overallRank": 26,
@@ -1281,6 +2064,35 @@
                 "TO": 9,
                 "Stl": 4,
                 "Blk": 0
+            },
+            "statsHistory": {
+                "Pts": [
+                    27
+                ],
+                "FG": [
+                    26.923077
+                ],
+                "FT": [
+                    84.61539
+                ],
+                "PM3": [
+                    2
+                ],
+                "Reb": [
+                    18
+                ],
+                "Ast": [
+                    16
+                ],
+                "TO": [
+                    9
+                ],
+                "Stl": [
+                    4
+                ],
+                "Blk": [
+                    0
+                ]
             },
             "totalPoints": 339,
             "divisionPoints": 67,
@@ -1328,6 +2140,35 @@
                 "Stl": 1,
                 "Blk": 1
             },
+            "statsHistory": {
+                "Pts": [
+                    21
+                ],
+                "FG": [
+                    63.636364
+                ],
+                "FT": [
+                    0
+                ],
+                "PM3": [
+                    7
+                ],
+                "Reb": [
+                    2
+                ],
+                "Ast": [
+                    2
+                ],
+                "TO": [
+                    0
+                ],
+                "Stl": [
+                    1
+                ],
+                "Blk": [
+                    1
+                ]
+            },
             "totalPoints": 338,
             "divisionPoints": 123,
             "overallRank": 29,
@@ -1373,6 +2214,35 @@
                 "TO": 5,
                 "Stl": 0,
                 "Blk": 2
+            },
+            "statsHistory": {
+                "Pts": [
+                    40
+                ],
+                "FG": [
+                    44.736843
+                ],
+                "FT": [
+                    50
+                ],
+                "PM3": [
+                    3
+                ],
+                "Reb": [
+                    16
+                ],
+                "Ast": [
+                    8
+                ],
+                "TO": [
+                    5
+                ],
+                "Stl": [
+                    0
+                ],
+                "Blk": [
+                    2
+                ]
             },
             "totalPoints": 337,
             "divisionPoints": 131.5,
@@ -1420,6 +2290,35 @@
                 "Stl": 2,
                 "Blk": 3
             },
+            "statsHistory": {
+                "Pts": [
+                    20
+                ],
+                "FG": [
+                    42.105263
+                ],
+                "FT": [
+                    0
+                ],
+                "PM3": [
+                    4
+                ],
+                "Reb": [
+                    12
+                ],
+                "Ast": [
+                    1
+                ],
+                "TO": [
+                    2
+                ],
+                "Stl": [
+                    2
+                ],
+                "Blk": [
+                    3
+                ]
+            },
             "totalPoints": 337,
             "divisionPoints": 64.5,
             "overallRank": 30,
@@ -1465,6 +2364,35 @@
                 "TO": 4,
                 "Stl": 3,
                 "Blk": 0
+            },
+            "statsHistory": {
+                "Pts": [
+                    21
+                ],
+                "FG": [
+                    23.809525
+                ],
+                "FT": [
+                    100
+                ],
+                "PM3": [
+                    2
+                ],
+                "Reb": [
+                    10
+                ],
+                "Ast": [
+                    10
+                ],
+                "TO": [
+                    4
+                ],
+                "Stl": [
+                    3
+                ],
+                "Blk": [
+                    0
+                ]
             },
             "totalPoints": 335,
             "divisionPoints": 128,
@@ -1512,6 +2440,35 @@
                 "Stl": 3,
                 "Blk": 0
             },
+            "statsHistory": {
+                "Pts": [
+                    21
+                ],
+                "FG": [
+                    23.809525
+                ],
+                "FT": [
+                    100
+                ],
+                "PM3": [
+                    2
+                ],
+                "Reb": [
+                    10
+                ],
+                "Ast": [
+                    10
+                ],
+                "TO": [
+                    4
+                ],
+                "Stl": [
+                    3
+                ],
+                "Blk": [
+                    0
+                ]
+            },
             "totalPoints": 335,
             "divisionPoints": 119.5,
             "overallRank": 32,
@@ -1558,6 +2515,35 @@
                 "Stl": 2,
                 "Blk": 1
             },
+            "statsHistory": {
+                "Pts": [
+                    27
+                ],
+                "FG": [
+                    41.666668
+                ],
+                "FT": [
+                    50
+                ],
+                "PM3": [
+                    1
+                ],
+                "Reb": [
+                    20
+                ],
+                "Ast": [
+                    10
+                ],
+                "TO": [
+                    7
+                ],
+                "Stl": [
+                    2
+                ],
+                "Blk": [
+                    1
+                ]
+            },
             "totalPoints": 327,
             "divisionPoints": 123,
             "overallRank": 34,
@@ -1587,7 +2573,7 @@
                 "Stl": 37,
                 "Blk": 31
             },
-            "teamName": "BelowTheBenthic's Team",
+            "teamName": "Cool Hand Luka",
             "teamId": 150840,
             "leagueName": "RCJ D2B 21-22",
             "leagueId": 28250,
@@ -1603,6 +2589,35 @@
                 "TO": 1,
                 "Stl": 1,
                 "Blk": 0
+            },
+            "statsHistory": {
+                "Pts": [
+                    20
+                ],
+                "FG": [
+                    47.058823
+                ],
+                "FT": [
+                    75
+                ],
+                "PM3": [
+                    1
+                ],
+                "Reb": [
+                    9
+                ],
+                "Ast": [
+                    3
+                ],
+                "TO": [
+                    1
+                ],
+                "Stl": [
+                    1
+                ],
+                "Blk": [
+                    0
+                ]
             },
             "totalPoints": 304,
             "divisionPoints": 107,
@@ -1650,6 +2665,35 @@
                 "Stl": 1,
                 "Blk": 4
             },
+            "statsHistory": {
+                "Pts": [
+                    17
+                ],
+                "FG": [
+                    33.333332
+                ],
+                "FT": [
+                    0
+                ],
+                "PM3": [
+                    5
+                ],
+                "Reb": [
+                    8
+                ],
+                "Ast": [
+                    2
+                ],
+                "TO": [
+                    2
+                ],
+                "Stl": [
+                    1
+                ],
+                "Blk": [
+                    4
+                ]
+            },
             "totalPoints": 298,
             "divisionPoints": 101,
             "overallRank": 36,
@@ -1695,6 +2739,35 @@
                 "TO": 10,
                 "Stl": 3,
                 "Blk": 0
+            },
+            "statsHistory": {
+                "Pts": [
+                    19
+                ],
+                "FG": [
+                    33.333332
+                ],
+                "FT": [
+                    66.666664
+                ],
+                "PM3": [
+                    1
+                ],
+                "Reb": [
+                    14
+                ],
+                "Ast": [
+                    10
+                ],
+                "TO": [
+                    10
+                ],
+                "Stl": [
+                    3
+                ],
+                "Blk": [
+                    0
+                ]
             },
             "totalPoints": 294,
             "divisionPoints": 105,
@@ -1742,6 +2815,35 @@
                 "Stl": 1,
                 "Blk": 0
             },
+            "statsHistory": {
+                "Pts": [
+                    12
+                ],
+                "FG": [
+                    71.42857
+                ],
+                "FT": [
+                    0
+                ],
+                "PM3": [
+                    2
+                ],
+                "Reb": [
+                    1
+                ],
+                "Ast": [
+                    1
+                ],
+                "TO": [
+                    0
+                ],
+                "Stl": [
+                    1
+                ],
+                "Blk": [
+                    0
+                ]
+            },
             "totalPoints": 288,
             "divisionPoints": 91,
             "overallRank": 38,
@@ -1787,6 +2889,35 @@
                 "TO": 0,
                 "Stl": 1,
                 "Blk": 0
+            },
+            "statsHistory": {
+                "Pts": [
+                    12
+                ],
+                "FG": [
+                    71.42857
+                ],
+                "FT": [
+                    0
+                ],
+                "PM3": [
+                    2
+                ],
+                "Reb": [
+                    1
+                ],
+                "Ast": [
+                    1
+                ],
+                "TO": [
+                    0
+                ],
+                "Stl": [
+                    1
+                ],
+                "Blk": [
+                    0
+                ]
             },
             "totalPoints": 288,
             "divisionPoints": 50.5,
@@ -1834,6 +2965,35 @@
                 "Stl": 1,
                 "Blk": 0
             },
+            "statsHistory": {
+                "Pts": [
+                    20
+                ],
+                "FG": [
+                    44.444443
+                ],
+                "FT": [
+                    0
+                ],
+                "PM3": [
+                    4
+                ],
+                "Reb": [
+                    2
+                ],
+                "Ast": [
+                    3
+                ],
+                "TO": [
+                    2
+                ],
+                "Stl": [
+                    1
+                ],
+                "Blk": [
+                    0
+                ]
+            },
             "totalPoints": 281,
             "divisionPoints": 92,
             "overallRank": 40,
@@ -1879,6 +3039,35 @@
                 "TO": 2,
                 "Stl": 1,
                 "Blk": 0
+            },
+            "statsHistory": {
+                "Pts": [
+                    15
+                ],
+                "FG": [
+                    35.714287
+                ],
+                "FT": [
+                    75
+                ],
+                "PM3": [
+                    2
+                ],
+                "Reb": [
+                    9
+                ],
+                "Ast": [
+                    2
+                ],
+                "TO": [
+                    2
+                ],
+                "Stl": [
+                    1
+                ],
+                "Blk": [
+                    0
+                ]
             },
             "totalPoints": 279,
             "divisionPoints": 102,
@@ -1926,6 +3115,35 @@
                 "Stl": 1,
                 "Blk": 0
             },
+            "statsHistory": {
+                "Pts": [
+                    15
+                ],
+                "FG": [
+                    35.714287
+                ],
+                "FT": [
+                    75
+                ],
+                "PM3": [
+                    2
+                ],
+                "Reb": [
+                    9
+                ],
+                "Ast": [
+                    2
+                ],
+                "TO": [
+                    2
+                ],
+                "Stl": [
+                    1
+                ],
+                "Blk": [
+                    0
+                ]
+            },
             "totalPoints": 279,
             "divisionPoints": 92.5,
             "overallRank": 41,
@@ -1971,6 +3189,35 @@
                 "TO": 5,
                 "Stl": 2,
                 "Blk": 0
+            },
+            "statsHistory": {
+                "Pts": [
+                    13
+                ],
+                "FG": [
+                    31.25
+                ],
+                "FT": [
+                    100
+                ],
+                "PM3": [
+                    1
+                ],
+                "Reb": [
+                    6
+                ],
+                "Ast": [
+                    4
+                ],
+                "TO": [
+                    5
+                ],
+                "Stl": [
+                    2
+                ],
+                "Blk": [
+                    0
+                ]
             },
             "totalPoints": 265,
             "divisionPoints": 51.5,
@@ -2018,6 +3265,35 @@
                 "Stl": 2,
                 "Blk": 0
             },
+            "statsHistory": {
+                "Pts": [
+                    5
+                ],
+                "FG": [
+                    33.333332
+                ],
+                "FT": [
+                    100
+                ],
+                "PM3": [
+                    1
+                ],
+                "Reb": [
+                    1
+                ],
+                "Ast": [
+                    0
+                ],
+                "TO": [
+                    1
+                ],
+                "Stl": [
+                    2
+                ],
+                "Blk": [
+                    0
+                ]
+            },
             "totalPoints": 262,
             "divisionPoints": 84,
             "overallRank": 44,
@@ -2063,6 +3339,35 @@
                 "TO": 2,
                 "Stl": 1,
                 "Blk": 0
+            },
+            "statsHistory": {
+                "Pts": [
+                    12
+                ],
+                "FG": [
+                    50
+                ],
+                "FT": [
+                    0
+                ],
+                "PM3": [
+                    2
+                ],
+                "Reb": [
+                    7
+                ],
+                "Ast": [
+                    1
+                ],
+                "TO": [
+                    2
+                ],
+                "Stl": [
+                    1
+                ],
+                "Blk": [
+                    0
+                ]
             },
             "totalPoints": 258,
             "divisionPoints": 92,
@@ -2110,6 +3415,35 @@
                 "Stl": 1,
                 "Blk": 0
             },
+            "statsHistory": {
+                "Pts": [
+                    12
+                ],
+                "FG": [
+                    50
+                ],
+                "FT": [
+                    0
+                ],
+                "PM3": [
+                    2
+                ],
+                "Reb": [
+                    7
+                ],
+                "Ast": [
+                    1
+                ],
+                "TO": [
+                    2
+                ],
+                "Stl": [
+                    1
+                ],
+                "Blk": [
+                    0
+                ]
+            },
             "totalPoints": 258,
             "divisionPoints": 79.5,
             "overallRank": 45,
@@ -2155,6 +3489,35 @@
                 "TO": 1,
                 "Stl": 2,
                 "Blk": 0
+            },
+            "statsHistory": {
+                "Pts": [
+                    6
+                ],
+                "FG": [
+                    40
+                ],
+                "FT": [
+                    0
+                ],
+                "PM3": [
+                    2
+                ],
+                "Reb": [
+                    3
+                ],
+                "Ast": [
+                    1
+                ],
+                "TO": [
+                    1
+                ],
+                "Stl": [
+                    2
+                ],
+                "Blk": [
+                    0
+                ]
             },
             "totalPoints": 254,
             "divisionPoints": 83,
@@ -2202,6 +3565,35 @@
                 "Stl": 1,
                 "Blk": 0
             },
+            "statsHistory": {
+                "Pts": [
+                    6
+                ],
+                "FG": [
+                    40
+                ],
+                "FT": [
+                    50
+                ],
+                "PM3": [
+                    0
+                ],
+                "Reb": [
+                    8
+                ],
+                "Ast": [
+                    6
+                ],
+                "TO": [
+                    5
+                ],
+                "Stl": [
+                    1
+                ],
+                "Blk": [
+                    0
+                ]
+            },
             "totalPoints": 237,
             "divisionPoints": 86.5,
             "overallRank": 48,
@@ -2247,6 +3639,35 @@
                 "TO": 5,
                 "Stl": 1,
                 "Blk": 0
+            },
+            "statsHistory": {
+                "Pts": [
+                    6
+                ],
+                "FG": [
+                    40
+                ],
+                "FT": [
+                    50
+                ],
+                "PM3": [
+                    0
+                ],
+                "Reb": [
+                    8
+                ],
+                "Ast": [
+                    6
+                ],
+                "TO": [
+                    5
+                ],
+                "Stl": [
+                    1
+                ],
+                "Blk": [
+                    0
+                ]
             },
             "totalPoints": 237,
             "divisionPoints": 86.5,
@@ -2294,6 +3715,35 @@
                 "Stl": 0,
                 "Blk": 0
             },
+            "statsHistory": {
+                "Pts": [
+                    9
+                ],
+                "FG": [
+                    33.333332
+                ],
+                "FT": [
+                    0
+                ],
+                "PM3": [
+                    3
+                ],
+                "Reb": [
+                    2
+                ],
+                "Ast": [
+                    2
+                ],
+                "TO": [
+                    2
+                ],
+                "Stl": [
+                    0
+                ],
+                "Blk": [
+                    0
+                ]
+            },
             "totalPoints": 214,
             "divisionPoints": 65,
             "overallRank": 50,
@@ -2340,11 +3790,115 @@
                 "Stl": 0,
                 "Blk": 0
             },
+            "statsHistory": {
+                "Pts": [
+                    8
+                ],
+                "FG": [
+                    30.76923
+                ],
+                "FT": [
+                    0
+                ],
+                "PM3": [
+                    0
+                ],
+                "Reb": [
+                    5
+                ],
+                "Ast": [
+                    4
+                ],
+                "TO": [
+                    4
+                ],
+                "Stl": [
+                    0
+                ],
+                "Blk": [
+                    0
+                ]
+            },
             "totalPoints": 179,
             "divisionPoints": 63.5,
             "overallRank": 51,
             "divisionRank": 19,
             "promotion": ""
+        },
+        {
+            "divisionValues": {
+                "Pts": 3,
+                "FG": 3,
+                "FT": 5,
+                "PM3": 4.5,
+                "Reb": 3,
+                "Ast": 3,
+                "TO": 21,
+                "Stl": 4,
+                "Blk": 6.5
+            },
+            "statValues": {
+                "Pts": 9,
+                "FG": 9,
+                "FT": 21,
+                "PM3": 12,
+                "Reb": 9,
+                "Ast": 10,
+                "TO": 60,
+                "Stl": 13,
+                "Blk": 31
+            },
+            "teamName": "Wherethewhitewomenat",
+            "teamId": 150737,
+            "leagueName": "RCJ D3B 21-22",
+            "leagueId": 28252,
+            "leagueRank": 10,
+            "division": 3,
+            "stats": {
+                "Pts": 0,
+                "FG": 0,
+                "FT": 0,
+                "PM3": 0,
+                "Reb": 0,
+                "Ast": 0,
+                "TO": 0,
+                "Stl": 0,
+                "Blk": 0
+            },
+            "statsHistory": {
+                "Pts": [
+                    0
+                ],
+                "FG": [
+                    0
+                ],
+                "FT": [
+                    0
+                ],
+                "PM3": [
+                    0
+                ],
+                "Reb": [
+                    0
+                ],
+                "Ast": [
+                    0
+                ],
+                "TO": [
+                    0
+                ],
+                "Stl": [
+                    0
+                ],
+                "Blk": [
+                    0
+                ]
+            },
+            "totalPoints": 174,
+            "divisionPoints": 53,
+            "overallRank": 52,
+            "divisionRank": 20,
+            "promotion": "relegation"
         },
         {
             "divisionValues": {
@@ -2386,51 +3940,34 @@
                 "Stl": 0,
                 "Blk": 0
             },
-            "totalPoints": 174,
-            "divisionPoints": 53,
-            "overallRank": 52,
-            "divisionRank": 20,
-            "promotion": "relegation"
-        },
-        {
-            "divisionValues": {
-                "Pts": 3,
-                "FG": 3,
-                "FT": 5,
-                "PM3": 4.5,
-                "Reb": 3,
-                "Ast": 3,
-                "TO": 21,
-                "Stl": 4,
-                "Blk": 6.5
-            },
-            "statValues": {
-                "Pts": 9,
-                "FG": 9,
-                "FT": 21,
-                "PM3": 12,
-                "Reb": 9,
-                "Ast": 10,
-                "TO": 60,
-                "Stl": 13,
-                "Blk": 31
-            },
-            "teamName": "Wherethewhitewomenat",
-            "teamId": 150737,
-            "leagueName": "RCJ D3B 21-22",
-            "leagueId": 28252,
-            "leagueRank": 10,
-            "division": 3,
-            "stats": {
-                "Pts": 0,
-                "FG": 0,
-                "FT": 0,
-                "PM3": 0,
-                "Reb": 0,
-                "Ast": 0,
-                "TO": 0,
-                "Stl": 0,
-                "Blk": 0
+            "statsHistory": {
+                "Pts": [
+                    0
+                ],
+                "FG": [
+                    0
+                ],
+                "FT": [
+                    0
+                ],
+                "PM3": [
+                    0
+                ],
+                "Reb": [
+                    0
+                ],
+                "Ast": [
+                    0
+                ],
+                "TO": [
+                    0
+                ],
+                "Stl": [
+                    0
+                ],
+                "Blk": [
+                    0
+                ]
             },
             "totalPoints": 174,
             "divisionPoints": 53,
@@ -2478,51 +4015,34 @@
                 "Stl": 0,
                 "Blk": 0
             },
-            "totalPoints": 174,
-            "divisionPoints": 53,
-            "overallRank": 52,
-            "divisionRank": 20,
-            "promotion": "relegation"
-        },
-        {
-            "divisionValues": {
-                "Pts": 3,
-                "FG": 3,
-                "FT": 5,
-                "PM3": 4.5,
-                "Reb": 3,
-                "Ast": 3,
-                "TO": 21,
-                "Stl": 4,
-                "Blk": 6.5
-            },
-            "statValues": {
-                "Pts": 9,
-                "FG": 9,
-                "FT": 21,
-                "PM3": 12,
-                "Reb": 9,
-                "Ast": 10,
-                "TO": 60,
-                "Stl": 13,
-                "Blk": 31
-            },
-            "teamName": "Bad Boys III",
-            "teamId": 150708,
-            "leagueName": "RCJ D3A 21-22",
-            "leagueId": 28251,
-            "leagueRank": 11,
-            "division": 3,
-            "stats": {
-                "Pts": 0,
-                "FG": 0,
-                "FT": 0,
-                "PM3": 0,
-                "Reb": 0,
-                "Ast": 0,
-                "TO": 0,
-                "Stl": 0,
-                "Blk": 0
+            "statsHistory": {
+                "Pts": [
+                    0
+                ],
+                "FG": [
+                    0
+                ],
+                "FT": [
+                    0
+                ],
+                "PM3": [
+                    0
+                ],
+                "Reb": [
+                    0
+                ],
+                "Ast": [
+                    0
+                ],
+                "TO": [
+                    0
+                ],
+                "Stl": [
+                    0
+                ],
+                "Blk": [
+                    0
+                ]
             },
             "totalPoints": 174,
             "divisionPoints": 53,
@@ -2570,10 +4090,189 @@
                 "Stl": 0,
                 "Blk": 0
             },
+            "statsHistory": {
+                "Pts": [
+                    0
+                ],
+                "FG": [
+                    0
+                ],
+                "FT": [
+                    0
+                ],
+                "PM3": [
+                    0
+                ],
+                "Reb": [
+                    0
+                ],
+                "Ast": [
+                    0
+                ],
+                "TO": [
+                    0
+                ],
+                "Stl": [
+                    0
+                ],
+                "Blk": [
+                    0
+                ]
+            },
             "totalPoints": 174,
             "divisionPoints": 53,
             "overallRank": 52,
             "divisionRank": 20,
+            "promotion": "relegation"
+        },
+        {
+            "divisionValues": {
+                "Pts": 3,
+                "FG": 3,
+                "FT": 5,
+                "PM3": 4.5,
+                "Reb": 3,
+                "Ast": 3,
+                "TO": 21,
+                "Stl": 4,
+                "Blk": 6.5
+            },
+            "statValues": {
+                "Pts": 9,
+                "FG": 9,
+                "FT": 21,
+                "PM3": 12,
+                "Reb": 9,
+                "Ast": 10,
+                "TO": 60,
+                "Stl": 13,
+                "Blk": 31
+            },
+            "teamName": "Bad Boys III",
+            "teamId": 150708,
+            "leagueName": "RCJ D3A 21-22",
+            "leagueId": 28251,
+            "leagueRank": 11,
+            "division": 3,
+            "stats": {
+                "Pts": 0,
+                "FG": 0,
+                "FT": 0,
+                "PM3": 0,
+                "Reb": 0,
+                "Ast": 0,
+                "TO": 0,
+                "Stl": 0,
+                "Blk": 0
+            },
+            "statsHistory": {
+                "Pts": [
+                    0
+                ],
+                "FG": [
+                    0
+                ],
+                "FT": [
+                    0
+                ],
+                "PM3": [
+                    0
+                ],
+                "Reb": [
+                    0
+                ],
+                "Ast": [
+                    0
+                ],
+                "TO": [
+                    0
+                ],
+                "Stl": [
+                    0
+                ],
+                "Blk": [
+                    0
+                ]
+            },
+            "totalPoints": 174,
+            "divisionPoints": 53,
+            "overallRank": 52,
+            "divisionRank": 20,
+            "promotion": "relegation"
+        },
+        {
+            "divisionValues": {
+                "Pts": 1.5,
+                "FG": 1.5,
+                "FT": 4.5,
+                "PM3": 1.5,
+                "Reb": 1.5,
+                "Ast": 2,
+                "TO": 22,
+                "Stl": 2,
+                "Blk": 7
+            },
+            "statValues": {
+                "Pts": 9,
+                "FG": 9,
+                "FT": 21,
+                "PM3": 12,
+                "Reb": 9,
+                "Ast": 10,
+                "TO": 60,
+                "Stl": 13,
+                "Blk": 31
+            },
+            "teamName": "Noodles7's Team",
+            "teamId": 150715,
+            "leagueName": "RCJ D2A 21-22",
+            "leagueId": 28234,
+            "leagueRank": 11,
+            "division": 2,
+            "stats": {
+                "Pts": 0,
+                "FG": 0,
+                "FT": 0,
+                "PM3": 0,
+                "Reb": 0,
+                "Ast": 0,
+                "TO": 0,
+                "Stl": 0,
+                "Blk": 0
+            },
+            "statsHistory": {
+                "Pts": [
+                    0
+                ],
+                "FG": [
+                    0
+                ],
+                "FT": [
+                    0
+                ],
+                "PM3": [
+                    0
+                ],
+                "Reb": [
+                    0
+                ],
+                "Ast": [
+                    0
+                ],
+                "TO": [
+                    0
+                ],
+                "Stl": [
+                    0
+                ],
+                "Blk": [
+                    0
+                ]
+            },
+            "totalPoints": 174,
+            "divisionPoints": 43.5,
+            "overallRank": 52,
+            "divisionRank": 23,
             "promotion": "relegation"
         },
         {
@@ -2616,51 +4315,34 @@
                 "Stl": 0,
                 "Blk": 0
             },
-            "totalPoints": 174,
-            "divisionPoints": 43.5,
-            "overallRank": 52,
-            "divisionRank": 23,
-            "promotion": "relegation"
-        },
-        {
-            "divisionValues": {
-                "Pts": 1.5,
-                "FG": 1.5,
-                "FT": 4.5,
-                "PM3": 1.5,
-                "Reb": 1.5,
-                "Ast": 2,
-                "TO": 22,
-                "Stl": 2,
-                "Blk": 7
-            },
-            "statValues": {
-                "Pts": 9,
-                "FG": 9,
-                "FT": 21,
-                "PM3": 12,
-                "Reb": 9,
-                "Ast": 10,
-                "TO": 60,
-                "Stl": 13,
-                "Blk": 31
-            },
-            "teamName": "Noodles7's Team",
-            "teamId": 150715,
-            "leagueName": "RCJ D2A 21-22",
-            "leagueId": 28234,
-            "leagueRank": 11,
-            "division": 2,
-            "stats": {
-                "Pts": 0,
-                "FG": 0,
-                "FT": 0,
-                "PM3": 0,
-                "Reb": 0,
-                "Ast": 0,
-                "TO": 0,
-                "Stl": 0,
-                "Blk": 0
+            "statsHistory": {
+                "Pts": [
+                    0
+                ],
+                "FG": [
+                    0
+                ],
+                "FT": [
+                    0
+                ],
+                "PM3": [
+                    0
+                ],
+                "Reb": [
+                    0
+                ],
+                "Ast": [
+                    0
+                ],
+                "TO": [
+                    0
+                ],
+                "Stl": [
+                    0
+                ],
+                "Blk": [
+                    0
+                ]
             },
             "totalPoints": 174,
             "divisionPoints": 43.5,
@@ -2708,6 +4390,35 @@
                 "Stl": 0,
                 "Blk": 0
             },
+            "statsHistory": {
+                "Pts": [
+                    0
+                ],
+                "FG": [
+                    0
+                ],
+                "FT": [
+                    0
+                ],
+                "PM3": [
+                    0
+                ],
+                "Reb": [
+                    0
+                ],
+                "Ast": [
+                    0
+                ],
+                "TO": [
+                    0
+                ],
+                "Stl": [
+                    0
+                ],
+                "Blk": [
+                    0
+                ]
+            },
             "totalPoints": 174,
             "divisionPoints": 26,
             "overallRank": 52,
@@ -2754,6 +4465,35 @@
                 "Stl": 0,
                 "Blk": 0
             },
+            "statsHistory": {
+                "Pts": [
+                    0
+                ],
+                "FG": [
+                    0
+                ],
+                "FT": [
+                    0
+                ],
+                "PM3": [
+                    0
+                ],
+                "Reb": [
+                    0
+                ],
+                "Ast": [
+                    0
+                ],
+                "TO": [
+                    0
+                ],
+                "Stl": [
+                    0
+                ],
+                "Blk": [
+                    0
+                ]
+            },
             "totalPoints": 174,
             "divisionPoints": 26,
             "overallRank": 52,
@@ -2761,5 +4501,5 @@
             "promotion": "relegation"
         }
     ],
-    "updateDate": 1634739342799
+    "updateDate": 1634758342647
 }
