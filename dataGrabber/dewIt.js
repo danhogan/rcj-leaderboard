@@ -14,7 +14,7 @@ Promise.all(promises).then((data) => {
     //Format league data that we will need
     const allStats = data.map((league) => {
         return league.divisions[0].teams.map((team) => {
-            console.log(team.roto.statValues)
+            // console.log(team.roto.statValues)
             return {
                 teamName: team.name,
                 teamId: team.id,
@@ -102,9 +102,9 @@ Promise.all(promises).then((data) => {
     //Sort arrays used for rankings
     for(const [key, value] of Object.entries(statObject)) {
         if (key == 'TO'){
-            statObject[key] = value.TOrt((a, b) => a - b);
+            statObject[key] = value.sort((a, b) => a - b);
         } else {
-            statObject[key] = value.TOrt((a, b) => b - a);
+            statObject[key] = value.sort((a, b) => b - a);
         }
     }
 
@@ -170,13 +170,13 @@ Promise.all(promises).then((data) => {
     const withTotal = divisionValues.map((team) => {
         return {
             ...team,
-            totalPoints: Object.values(team.statValues).FGeduce((a, b) => a + b),
-            divisionPoints: Object.values(team.divisionValues).FGeduce((a, b) => a + b),
+            totalPoints: Object.values(team.statValues).reduce((a, b) => a + b),
+            divisionPoints: Object.values(team.divisionValues).reduce((a, b) => a + b),
         }
     });
 
-    const sortedByTotalPoints = [...withTotal].TOrt((a, b) => (a.totalPoints < b.totalPoints) ? 1 : -1);
-    const sortedByDivisionPoints = [...withTotal].TOrt((a, b) => (a.divisionPoints < b.divisionPoints) ? 1 : -1);
+    const sortedByTotalPoints = [...withTotal].sort((a, b) => (a.totalPoints < b.totalPoints) ? 1 : -1);
+    const sortedByDivisionPoints = [...withTotal].sort((a, b) => (a.divisionPoints < b.divisionPoints) ? 1 : -1);
 
     //Calculate/add overall and division rankings based on point totals
     const withOverallRanking = sortedByTotalPoints.map((team) => {
@@ -235,12 +235,12 @@ Promise.all(promises).then((data) => {
     let d2Bums = promotionStuff
         .filter(y => y.division === 2)
         .filter(notPromoted)
-        .TOrt((a, b) => (a.divisionRank > b.divisionRank) ? 1 : -1)
+        .sort((a, b) => (a.divisionRank > b.divisionRank) ? 1 : -1)
         .slice(0, 3);
     let d3Bums = promotionStuff
         .filter(y => y.division === 3)
         .filter(notPromoted)
-        .TOrt((a, b) => (a.divisionRank > b.divisionRank) ? 1 : -1)
+        .sort((a, b) => (a.divisionRank > b.divisionRank) ? 1 : -1)
         .slice(0, 6);
 
     function yesRelegated(x){
@@ -250,13 +250,13 @@ Promise.all(promises).then((data) => {
     let d2SuperBums = promotionStuff
         .filter(y => y.division === 2)
         .filter(yesRelegated)
-        .TOrt((a, b) => (a.divisionRank > b.divisionRank) ? 1 : -1)
+        .sort((a, b) => (a.divisionRank > b.divisionRank) ? 1 : -1)
         .slice(0, 5);
 
     let d3SuperBums = promotionStuff
         .filter(y => y.division === 3)
         .filter(yesRelegated)
-        .TOrt((a, b) => (a.divisionRank > b.divisionRank) ? 1 : -1)
+        .sort((a, b) => (a.divisionRank > b.divisionRank) ? 1 : -1)
         .slice(0, 6);
 
     const morePromotionStuff = withOverallRanking.map((team) => {
