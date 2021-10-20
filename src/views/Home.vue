@@ -42,9 +42,9 @@ export default {
             { text: "Total Points", value: "totalPoints" },
 
             { text: "Pts", value: "stats.Pts" },
-            { text: "FG", value: "stats.FG" },
-            { text: "FT", value: "stats.FT" },
-            { text: "PM3", value: "stats.PM3" },
+            { text: "FG%", value: "stats.FG" },
+            { text: "FT%", value: "stats.FT" },
+            { text: "3PM", value: "stats.PM3" },
             { text: "Reb", value: "stats.Reb" },
             { text: "Ast", value: "stats.Ast" },
             { text: "TO", value: "stats.TO" },
