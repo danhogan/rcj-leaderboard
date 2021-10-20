@@ -4,7 +4,7 @@
             <template v-for="(thing, index) in statTypes" v-slot:[`item.stats.${thing}`]="{ item }">
                 <v-chip :key="`thing${index}`" :color="getColor(item[statValueLocation][thing])" dark>{{ item.stats[thing] }} ({{ item[statValueLocation][thing] }})</v-chip>
             </template>
-            <template v-slot:[`item.teamName`]="{ item }">
+            <!-- <template v-slot:[`item.teamName`]="{ item }">
                 <v-tooltip top>
                     <template v-slot:activator="{ on, attrs }">
                         <v-icon v-bind="attrs" v-on="on" class="promoIcon" small :color="getPromoColor(item.promotion)">
@@ -14,7 +14,7 @@
                     <span>{{getPromoText(item.promotion)}}</span>
                 </v-tooltip>
                 <a target="_blank" :href="`https://www.fleaflicker.com/nba/leagues/${item.leagueId}/teams/${item.teamId}`">{{item.teamName}}</a>
-            </template>
+            </template> -->
             <template v-slot:[`item.leagueName`]="{ item }">
                 <a target="_blank" :href="`https://www.fleaflicker.com/nba/leagues/${item.leagueId}`">{{item.leagueName}}</a>
             </template>
