@@ -3,10 +3,10 @@
         <v-container>
             <v-row align="center">
                 <v-col cols="6">
-                    <v-select :items="leagueIds" v-model="selectedLeague" item-value="id" item-text="name"></v-select>
+                    <v-select :items="leagueIds" v-model="selectedLeague" item-value="id" item-text="name" return-object></v-select>
                 </v-col>
                 <v-col cols="6">
-                    <v-select :items="statSelections" v-model="selectedStat" item-value="back" item-text="front"></v-select>
+                    <v-select :items="statSelections" v-model="selectedStat" item-value="back" item-text="front" return-object></v-select>
                 </v-col>
             </v-row>
         </v-container>
@@ -95,12 +95,14 @@ export default {
                         enabled: false,
                     },
                     type: "line",
-                    // events: {
-                    //     markerClick(event, chartContext, goodStuff) {
-                    //         console.log('goodStuff:', goodStuff)
-                    //         window.open("https://www.pitcherlist.com/?s=" + encodeURI(goodStuff.w.config.series[goodStuff.seriesIndex].data[goodStuff.dataPointIndex].name, "_blank"));
-                    //     }
-                    // }
+                    events: {
+                        markerClick(event, chartContext, goodStuff) {
+                            console.log('goodStuff:', goodStuff)
+                            let team = goodStuff.w.config.series[goodStuff.seriesIndex];
+                            console.log('team:', team)
+                            window.open(`https://www.fleaflicker.com/nba/leagues/${team.leagueId}/teams/${team.teamId}`, "_blank");
+                        }
+                    }
                 },
                 markers: {
                     size: 5
@@ -133,7 +135,7 @@ export default {
                     '#AA50E1',
                     '#A07C35',
                     '#DF67D4',
-                    '#2E2E2E',
+                    '#a9ed87',
                     '#E5E5E5',
                     '#979797',
                     '#aaffc3',
@@ -163,6 +165,8 @@ export default {
             return data.theData.filter(d => d.leagueId == this.selectedLeague.id).map(team => {
                 return {
                     name: team.teamName,
+                    teamId: team.teamId,
+                    leagueId: team.leagueId,
                     data: team.statsHistory[this.selectedStat.back]
                 }
             });
