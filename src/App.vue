@@ -11,12 +11,19 @@
 
             <v-spacer></v-spacer>
 
-            <v-btn-toggle v-model="theDivision">
+            <v-btn-toggle v-if="$route.name == 'Home'" v-model="theDivision">
                 <v-btn>All</v-btn>
                 <v-btn>D1</v-btn>
                 <v-btn>D2</v-btn>
                 <v-btn>D3</v-btn>
             </v-btn-toggle>
+
+            <v-spacer></v-spacer>
+
+            <v-toolbar-items>
+                <v-btn v-if="$route.name == 'Home'" text to="/charts">Charts</v-btn>
+                <v-btn v-if="$route.name == 'Charts'" text to="/">Tables</v-btn>
+            </v-toolbar-items>
 
             <v-spacer></v-spacer>
 
