@@ -2,12 +2,35 @@
     <div>
         <v-container>
             <v-row align="center">
-                <v-col cols="6">
+                <v-spacer></v-spacer>
+                <v-col cols="2">
                     <v-select :items="leagueIds" v-model="selectedLeague" item-value="id" item-text="name" return-object></v-select>
                 </v-col>
-                <v-col cols="6">
+                <v-spacer></v-spacer>
+                <v-col cols="2">
                     <v-select :items="statSelections" v-model="selectedStat" item-value="back" item-text="front" return-object></v-select>
                 </v-col>
+                <v-spacer></v-spacer>
+                <v-col cols="3" style="margin-top: 2em">
+                    <v-slider
+                        :max="maxDaysBack"
+                        min="1"
+                        v-model="daysBack"
+                        label="Days Back"
+                    >
+                        <template v-slot:append>
+                            <v-text-field
+                                v-model="daysBack"
+                                class="mt-0 pt-0"
+                                hide-details
+                                single-line
+                                type="number"
+                                style="width: 40px"
+                            ></v-text-field>
+                        </template>
+                    </v-slider>
+                </v-col>
+                <v-spacer></v-spacer>
             </v-row>
         </v-container>
         
@@ -17,6 +40,7 @@
 
 <script>
 import apexchart from "vue-apexcharts";
+import _ from "lodash";
 import data from "../allTheData.json";
 
 export default {
@@ -88,6 +112,8 @@ export default {
                 },    
             ],
             selectedStat: {back: "Pts", front: "Pts"},
+            daysBack: 365,
+            maxDaysBack: 365,
             chartOptions: {
                 chart: {
                     id: "chartPlot",
@@ -158,6 +184,9 @@ export default {
         },
         selectedStat(){
             this.series = this.byLeague;
+        },
+        daysBack(){
+            this.series = this.byLeague;
         }
     },
     computed: {
@@ -167,17 +196,20 @@ export default {
                     name: team.teamName,
                     teamId: team.teamId,
                     leagueId: team.leagueId,
-                    data: team.statsHistory[this.selectedStat.back]
+                    data: _.takeRight(team.statsHistory[this.selectedStat.back], this.daysBack)
                 }
             });
         }
     },
     created() {
         this.series = this.byLeague;
+        this.daysBack = this.maxDaysBack = this.series[0].data.length;
     },
 }
 </script>
 
-<style lang="scss" scoped>
-
+<style lang="scss">
+    #app .v-input__append-outer { 
+        margin-top: 0;
+    }
 </style>
